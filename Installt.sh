@@ -1,4 +1,4 @@
-apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y && apt install git curl wget nano openssh-server -y && passwd && clear && pkg update -y
+apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y && apt install git curl wget nano openssh-server proot-distro -y && passwd && clear && pkg update -y
 pkg install wget -y
 wget -O $PREFIX/bin/tbot https://raw.githubusercontent.com/TecnicalBot/tbot/main/tbot.sh
 chmod +x $PREFIX/bin/tbot && tbot &&
