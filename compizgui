@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "type dock for the dock"
+compiz --display :1
