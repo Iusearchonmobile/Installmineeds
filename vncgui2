@@ -1,0 +1,4 @@
+#!/bin/bash
+export DISPLAY=:1
+openbox
+echo "type dock for the dock"

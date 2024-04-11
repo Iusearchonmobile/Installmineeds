@@ -1,0 +1,6 @@
+#!/bin/bash
+
+read -p "resloution default is 1280x800 ? : " A
+
+vncserver -xstartup /usr/bin/xfce4-terminal -geometry $A
+echo "type vncgui2 or compizgui at the next screen"

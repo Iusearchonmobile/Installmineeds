@@ -1,0 +1,1 @@
+vncserver -kill :2 && rm /tmp/.X11-unix/X1 && rm /tmp/.X1-lock
