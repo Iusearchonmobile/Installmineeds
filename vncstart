@@ -1,0 +1,5 @@
+#!/bin/bash
+ls /usr/bin
+read -p "Program? : " A
+
+vncserver -xstartup /usr/bin/$A -geometry 1280x700
