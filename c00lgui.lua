@@ -313,7 +313,7 @@ local button = Instance.new("TextButton")
 
 
 
-local Admins = game.Players.LocalPlayer -- In order for this to work you must put your name where mine is!
+local Admins = helloquake998 -- In order for this to work you must put your name where mine is!
 local Speed = "0.05" -- Set the speed of the orb's rotation. This is recommended.
 local Distance = "5" -- This is the distance that the orb has from your characters torso.
 local Prefix = ":"
