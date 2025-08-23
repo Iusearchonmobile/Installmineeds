@@ -1,6 +1,6 @@
 --RC7 Cloud! Visual!
 
-local Player = game.Players.intoixication
+local Player = game.Players.intoixicati0n
 local cloud = Instance.new("Part",Player.Character.Torso)
 cloud.BrickColor = BrickColor.new(333)
 cloud.Reflectance = 0.5
